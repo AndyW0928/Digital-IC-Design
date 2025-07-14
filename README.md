@@ -1,4 +1,4 @@
-# Digital-IC-Design @ NCKU EE (2025)
+# Digital-IC-Design @ NCKU CS (2025)
 
 This repository includes five major RTL design projects from the graduate-level course **Digital IC Design** at National Cheng Kung University. Projects emphasize Verilog design, FSM implementation, AXI-like bus interface, and synthesis-aware optimization with real-world timing/performance considerations.
 
