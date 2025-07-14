@@ -10,8 +10,6 @@ This repository includes five major RTL design projects from the graduate-level 
 - Verified design via ModelSim testbench with golden pattern matching.
 - Demonstrated modular, reusable RTL design using top-down methodology.
 
----
-
 ## HW2 – LCD Image Controller (FSM Design + Image Processing)
 - Implemented a finite state machine to process an 8×8 grayscale image using 8 instructions:
   - `Shift`, `Max`, `Min`, `Average`, and `Write` operations.
@@ -20,8 +18,6 @@ This repository includes five major RTL design projects from the graduate-level 
   - **IRAM** (output image RAM)
 - Passed all 5 functional test patterns via ModelSim.
 - Focus: FSM-based control, image memory I/O, and command decoding.
-
----
 
 ## HW3 – 16-Point FFT Accelerator (Butterfly + Fixed-point Arithmetic)
 - Built a 16-point **Fast Fourier Transform** engine with:
@@ -34,8 +30,6 @@ This repository includes five major RTL design projects from the graduate-level 
   - Resource-efficient fixed-point units
 - Focus: signal processing hardware + timing closure.
 
----
-
 ## HW4 – Atrous Convolution + AXI-like Bus System
 - Implemented **Atrous convolution** with:
   - Replicate padding (68×68 input from 64×64)
@@ -47,7 +41,6 @@ This repository includes five major RTL design projects from the graduate-level 
   - Handshake timing (valid/ready, burst transfer)
   - Functional & gate-level simulations
 
----
 
 ## HW5 – Max Convex Hull (Graham Scan + Shoelace Formula)
 - Designed a **geometry accelerator** that computes:
