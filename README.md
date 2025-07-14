@@ -23,7 +23,7 @@ This repository includes five major RTL design projects from the graduate-level 
 
 ---
 
-## HW3 – 16-Point FFT Accelerator (Butterfly + Fixed-point Arithmetic) *Top 20% PA*
+## HW3 – 16-Point FFT Accelerator (Butterfly + Fixed-point Arithmetic)
 - Built a 16-point **Fast Fourier Transform** engine with:
   - **Serial-to-parallel input buffer**
   - **Complex butterfly computation**
@@ -36,7 +36,7 @@ This repository includes five major RTL design projects from the graduate-level 
 
 ---
 
-## HW4 – Atrous Convolution + AXI-like Bus System *Top 20% PA*
+## HW4 – Atrous Convolution + AXI-like Bus System
 - Implemented **Atrous convolution** with:
   - Replicate padding (68×68 input from 64×64)
   - ReLU
@@ -49,7 +49,7 @@ This repository includes five major RTL design projects from the graduate-level 
 
 ---
 
-## HW5 – Max Convex Hull (Graham Scan + Shoelace Formula) *Top 20% PA*
+## HW5 – Max Convex Hull (Graham Scan + Shoelace Formula)
 - Designed a **geometry accelerator** that computes:
   1. Convex Hull (via Graham Scan)
   2. Polygon area (via Shoelace Formula)
